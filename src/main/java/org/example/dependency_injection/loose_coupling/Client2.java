@@ -1,5 +1,11 @@
 package org.example.dependency_injection.loose_coupling;
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.lang.reflect.Constructor;
+import java.lang.reflect.InvocationTargetException;
+import java.util.Scanner;
+
 public class Client2 {
     public static void main(String[] args) throws FileNotFoundException,
             ClassNotFoundException, NoSuchMethodException,

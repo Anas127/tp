@@ -1,2 +1,2 @@
-org.example.dependency_injection.loose_coupling.SMSService
+org.example.dependency_injection.loose_coupling.EmailService
 org.example.dependency_injection.loose_coupling.MessageSender
